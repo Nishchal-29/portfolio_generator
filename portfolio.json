@@ -1,224 +1,152 @@
 {
-  "name": "Your Name",
-  "label": "Optional Label",
-  "image_path": "img/default-image.png",
+  "name": "Nishchal Kumar Singh",
+  "label": "Aspiring Software Developer & ML Enthusiast",
+  "image_path": "img/my_image.jpg",
   "contact": {
-    "email": "FirstLast@Sample.com",
-    "phone": "123-456-7890",
-    "location": "City, State, Country"
+    "email": "nishchalsingh9a@gmail.com",
+    "phone": "+91 7479869929",
+    "location": "Ranchi, Jharkhand, India"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+  "summary": "I am a B.Tech student at IIT (ISM) Dhanbad with a strong foundation in programming, machine learning, and open-source development. I actively participate in competitive programming and hackathons, and I'm passionate about AI, algorithms, and solving real-world problems through technology.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
-      "label": "Personal Website",
-      "url": "https://sample.com",
-      "svg_path": "img/globe.svg"
+      "label": "GitHub",
+      "url": "https://github.com/Nishchal-29",
+      "svg_path": "img/github.svg"
     },
     {
-      "label": "First Social",
-      "url": "https://sample.com",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nishchal-singh-935161315/",
       "svg_path": "img/linkedin.svg"
     },
     {
-      "label": "Second Social",
-      "url": "https://sample.com",
-      "svg_path": "img/github.svg"
-    }
-  ],
-  "work_experience": [
-    {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
-      "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
-      ]
+      "label": "Codeforces",
+      "url": "https://codeforces.com/profile/nishchal_318",
+      "svg_path": "img/globe.svg"
     },
     {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous job and what that position entailed",
-      "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
-      ]
+      "label": "CodeChef",
+      "url": "https://www.codechef.com/users/nishchal_318",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "LeetCode",
+      "url": "https://leetcode.com/u/Nishchal_318",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "Kaggle",
+      "url": "https://www.kaggle.com/nishchal29",
+      "svg_path": "img/globe.svg"
     }
   ],
+  "work_experience": [],
   "projects": [
     {
-      "title": "My First Project",
-      "summary": "Short summary about my first project",
-      "url": "https://sample.com",
+      "title": "Machine Learning Library from Scratch",
+      "summary": "Implemented core ML algorithms from scratch, enhancing my understanding of data science foundations.",
+      "url": "https://github.com/Nishchal-29/ML-Library-WOC-",
       "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
+        "Built Linear & Logistic Regression, KNN, Decision Trees, K-Means, and N-layer Neural Networks",
+        "Used only NumPy for implementation, no high-level ML libraries",
+        "Tested and documented on Google Colab for reproducibility"
       ],
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=1",
-          "caption": "Image Caption 1"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
-        }
-      ]
+      "images": []
     },
     {
-      "title": "My Second Project",
-      "summary": "Short summary about my second project",
-      "url": "https://sample.com",
+      "title": "SmartMail - RAG-Powered Email Assistant",
+      "summary": "Automated email responses using Retrieval-Augmented Generation (RAG).",
+      "url": "https://github.com/Nishchal-29/SmartMail",
       "highlights": [
-        "First Highlight of Project Two",
-        "Second Highlight of Project Two",
-        "Third Highlight of Project Two"
+        "Built using Python and LLM integration",
+        "Extracts context from email chains and responds smartly",
+        "Ideal for smart inbox automation"
       ],
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=4",
-          "caption": "Image Caption 4"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=5",
-          "caption": "Image Caption 5"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=6",
-          "caption": "Image Caption 6"
-        }
-      ]
+      "images": []
     }
   ],
-  "volunteer_experience": [
-    {
-      "organization": "Latest Organization",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present volunteer work",
-      "highlights": [
-        "First Duty of Current Organization",
-        "Second Duty of Current Organization",
-        "Third Duty of Current Organization"
-      ]
-    },
-    {
-      "organization": "Previous Organization",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous volunteer work",
-      "highlights": [
-        "First Duty of Previous Organization",
-        "Second Duty of Previous Organization",
-        "Third Duty of Previous Organization"
-      ]
-    }
-  ],
+  "volunteer_experience": [],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
-      "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
-      ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
+      "institution": "Indian Institute of Technology (ISM) Dhanbad",
+      "location": "Dhanbad, Jharkhand",
+      "url": "https://www.iitism.ac.in",
+      "degrees": ["Bachelor of Technology in Electronics and Communication Engineering"],
+      "honors": [],
+      "gpa_cumulative": "9.27",
+      "gpa_major": "",
+      "graduation_date": "2028"
     },
     {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "institution": "SR DAV Public School, Pundag, Ranchi",
+      "location": "Ranchi, Jharkhand",
+      "url": "https://davranchi.com",
+      "degrees": ["CBSE Class XII – 97.4%", "CBSE Class X – 95.8%"],
+      "honors": [],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": "2024"
     }
   ],
   "skills": [
     {
-      "name": "My First Skill",
-      "proficiency": 100,
-      "proficiency_label": "Proficiency Level"
+      "name": "C++",
+      "proficiency": 95,
+      "proficiency_label": "Advanced"
     },
     {
-      "name": "My Second Skill",
+      "name": "Python",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Machine Learning & Data Science",
       "proficiency": 80,
-      "proficiency_label": "Proficiency Level"
+      "proficiency_label": "Intermediate"
+    },
+    {
+      "name": "Git & GitHub",
+      "proficiency": 90,
+      "proficiency_label": "Intermediate"
+    },
+    {
+      "name": "HTML & CSS",
+      "proficiency": 80,
+      "proficiency_label": "Intermediate"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": 75,
+      "proficiency_label": "Intermediate"
+    },
+    {
+      "name": "SQL",
+      "proficiency": 80,
+      "proficiency_label": "Intermediate"
     }
   ],
   "interests": [
     {
-      "name": "My First Hobby",
-      "summary": "Short summary about my first Hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
-        }
-      ]
+      "name": "Photography",
+      "summary": "I am deeply interested in photography and capturing the beauty of the world through my lens.",
+      "images": []
     },
     {
-      "name": "My Second Hobby",
-      "summary": "Short summary about my second hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
-        }
-      ]
+      "name": "Competitive Programming",
+      "summary": "Regularly participate in LeetCode, Codeforces, and CodeChef contests to sharpen problem-solving skills.",
+      "images": []
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Professional working proficiency"
     },
     {
-      "language": "American Sign Language",
-      "fluency": "Professional Working Proficiency"
+      "language": "Hindi",
+      "fluency": "Native speaker"
     }
   ],
-  "references": [
-    {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
-    },
-    {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
-    }
-  ]
+  "references": []
 }
